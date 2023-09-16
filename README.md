@@ -11,6 +11,7 @@ Extract the data from the data source using Azure Data Factory to build a data p
 Load the raw data into the Azure Data Lake Storage.  
 Transform data using Azure Databricks and Apache spark code on Python notebook.  
 Load the transformed data back into Azure Data Lake Storage.  
-Use Synapse Analytics to run   
-![image](https://github.com/Pravy1610/Olympic-data-Analysis-using-Ms-Azure/assets/136230639/1c88a47e-9475-411a-87e8-c718e6b5a276)
+Use Synapse Analytics to run SQL queries on the transformed data to find insights.  
+
+
 
